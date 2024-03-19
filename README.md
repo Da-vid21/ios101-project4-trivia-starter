@@ -4,7 +4,7 @@ Submitted by: **Dawit Tekeste**
 
 **Trivia** is an app that gives users trivia questions and is interactive where it says if an answer is write or wrong and gives a total result 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
